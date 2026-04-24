@@ -1,0 +1,2 @@
+Soy Rosa Alicia Jiménez Ramírez. Lic Contador Público
+Mi visión Genera: Buscar la IA para adquirir herramientas que me ayuden en los diseños e ideas nuevas para seguir creando souvenirs de recuerdo y encontrar estrategias para venderlos por medio de internet y otros medios.

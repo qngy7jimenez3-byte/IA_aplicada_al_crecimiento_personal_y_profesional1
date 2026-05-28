@@ -1,19 +1,61 @@
-#Analisis de fuentes -Diagnistico Final
+**Análisis de Documentos
 
-##Objetivo Profesional
-Continuar mi negocio artesanal y mejorar mis diseños de souvenirs en MDF para corte láser que quiero vender a turistas en Zapotlanejo, Jalisco, siendo retos más originales y con identidad local.
+**Documento 1**
 
-##Documentos seleccionados
+**Tema**
 
-### 1. Historia_Zapotlanejo.pdf
-**Porque lo elegí**:Contiene datos históricos del puente del Calderón. Los Arcos y la Iglesia principal. Me sirve para incluir elementos con valor cultural en mis diseños y contar una historia al turista.
+Impacto de la inteligencia artificial en la productividad.
 
-**Datos filtrados**: Eliminé nombres de cronistas locales para proteger su privacidad.
+**Idea principal**
 
-### 2. Tendencia_Souvenirs_Jalisco_2024 docx 
-**Porque lo elegí**Me muestra qué buscan los turistas  actualmente: colores, tendencias, tamaños más vendidos y estilos. Así diseño productos que si se vendan.
+La inteligencia artificial mejora la productividad mediante la automatización de tareas repetitivas, el análisis rápido de datos y el apoyo en la toma de decisiones.
 
-**Datos filtrados**: Quité tablas con precios de mi competencia directa y nombre de tiendas específicas.
+**Hallazgos importantes**
 
-## Conclusión
-Estos documentos le darán contexto a la IA para que actúe como mi consultor de diseño artesanal y me ayude a crear productos con fundamentos históricos y comercial para mi taller.
+La IA permite ahorrar tiempo en tareas administrativas.
+
+Los chatbots y herramientas automáticas aumentan eficiencia.
+
+La IA generativa puede aumentar la productividad individual hasta un 40%.
+
+Las empresas que utilizan IA pueden superar hasta en un 27% la productividad de otras empresas.
+
+**Análisis personal**
+
+El documento demuestra que la IA no busca reemplazar al ser humano, sino ayudarlo a trabajar de manera más rápido. Las herramientas inteligentes permiten enfocarse en actividades estratégicas y creativas.
+
+**Documento 2**
+
+**Tema**
+
+Creatividad y tecnología.
+
+**Idea principal**
+
+La creatividad y la tecnología trabajan juntas para transformar la forma en que las personas crean, aprenden y resuelven problemas.
+
+**Hallazgos importantes**
+
+Las herramientas digitales permiten crear contenido de forma más accesible.
+
+La inteligencia artificial funciona como apoyo para la creatividad.
+
+La realidad virtual y aumentada generan nuevas experiencias interactivas.
+
+La tecnología facilita la colaboración y da accesibilidad a la creación de ideas.
+
+**Análisis personal**
+
+La tecnología moderna amplía las posibilidades creativas y permite que más personas desarrollen ideas innovadoras. La creatividad humana sigue siendo esencial para dar sentido y propósito a las herramientas tecnológicas.
+
+**Análisis Cruzado**
+
+Ambos documentos muestran cómo la tecnología puede aumentar las capacidades humanas. Mientras la inteligencia artificial mejora la productividad y automatiza procesos, la creatividad digital permite generar nuevas ideas y formas de comunicación. En ambos casos, el criterio humano sigue siendo fundamental.
+
+**Síntesis Final**
+
+Después de analizar el tema, entendí que la inteligencia artificial y la tecnología están transformando la productividad, el aprendizaje y la creatividad. Las herramientas digitales ayudan a realizar el trabajo en poco tiempo, automatizar tareas y facilitar la generación de ideas. Sin embargo, el pensamiento crítico y la creatividad humana continúan siendo indispensables para aprovechar correctamente estas tecnologías.
+
+Reflexión Personal
+
+Esta actividad me ayudó a comprender que la IA no solo sirve para automatizar procesos, sino también para apoyar el aprendizaje, la organización y la creatividad. También entendí la importancia de analizar información y generar conclusiones propias a partir de diferentes temas.

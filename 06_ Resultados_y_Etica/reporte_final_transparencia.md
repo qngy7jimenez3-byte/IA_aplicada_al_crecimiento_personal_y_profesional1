@@ -1,9 +1,9 @@
-##1.Frontera ética vs Simulación
+## 1.Frontera ética vs Simulación
 
 
 
-##Mitigacion Económica 
+## 2. Mitigacion Económica 
 
 
 
-## 3 Impacto y bien comun
+## 3. Impacto y bien comun

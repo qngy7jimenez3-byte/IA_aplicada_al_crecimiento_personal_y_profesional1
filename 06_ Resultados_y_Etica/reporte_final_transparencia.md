@@ -15,3 +15,6 @@ Se diseñaron instrucciones muy bien pensadas y específicadas y entendiblespara
  Cada interacción con la IA fue evaluada previamente bajo un análisis de costo-beneficio para asegurar que el procesamiento de datos justificara la inversión de recursos informáticos, transitando de un modelo de desperdicio a uno de eficiencia digital consciente
 
 ## 3. Impacto y bien comun
+El propósito superior de integrar Inteligencia Artificial en este proyecto fue para potenciar una solución
+
+La IA ayudo a estructurar y agilizar mi diseño para poder hdiseñarlo más rápido  y ponerlo a la venta
